@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2D24MZT59R.com.devlight.portmone-dev",
+        "paths": [ "r3/poluchit-po-nomeru-telefona" ]
+      },
+      {
+        "appID": "2D24MZT59R.com.devlight.portmone-beta",
+        "paths": [ "r3/poluchit-po-nomeru-telefona" ]
+      }
+    ]
+  }
+}
